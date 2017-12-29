@@ -1,0 +1,9 @@
+C:\Users\Jitem\Desktop\C# Denemeler\PictureSimilarity\PictureSimilarity\bin\Debug\PictureSimilarity.exe.config
+C:\Users\Jitem\Desktop\C# Denemeler\PictureSimilarity\PictureSimilarity\bin\Debug\PictureSimilarity.exe
+C:\Users\Jitem\Desktop\C# Denemeler\PictureSimilarity\PictureSimilarity\bin\Debug\PictureSimilarity.pdb
+C:\Users\Jitem\Desktop\C# Denemeler\PictureSimilarity\PictureSimilarity\obj\Debug\PictureSimilarity.csprojResolveAssemblyReference.cache
+C:\Users\Jitem\Desktop\C# Denemeler\PictureSimilarity\PictureSimilarity\obj\Debug\PictureSimilarity.Form1.resources
+C:\Users\Jitem\Desktop\C# Denemeler\PictureSimilarity\PictureSimilarity\obj\Debug\PictureSimilarity.Properties.Resources.resources
+C:\Users\Jitem\Desktop\C# Denemeler\PictureSimilarity\PictureSimilarity\obj\Debug\PictureSimilarity.csproj.GenerateResource.Cache
+C:\Users\Jitem\Desktop\C# Denemeler\PictureSimilarity\PictureSimilarity\obj\Debug\PictureSimilarity.exe
+C:\Users\Jitem\Desktop\C# Denemeler\PictureSimilarity\PictureSimilarity\obj\Debug\PictureSimilarity.pdb
